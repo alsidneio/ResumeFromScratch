@@ -1,0 +1,26 @@
+{
+  "name": "resume-2020",
+  "version": "1.0.0",
+  "description": "Alsidneio Bell's resume from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsidneio/ResumeFromScratch.git"
+  },
+  "author": "Alsidneio Bell, I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsidneio/ResumeFromScratch/issues"
+  },
+  "homepage": "https://github.com/alsidneio/ResumeFromScratch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodejs": "0.0.0",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
